@@ -7,8 +7,8 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
@@ -21,14 +21,14 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor: 🖐️ used
   - new
-  - Static method
-  - Method
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
   - Inheritance
   - Parent class
