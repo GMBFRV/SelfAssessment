@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
+  - Object: 👂 heard
   - this
   - arrow function
   - async function
-  - call
+  - call: 👂 heard
   - bind
   - apply
   - instanceof
@@ -41,26 +41,26 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
+  - if: 👂 heard
+  - while: 👂 heard
+  - do..while: 👂 heard
+  - for: 👂 heard
+  - for..in: 👂 heard
+  - for..of: 👂 heard
+  - for await: 👂 heard
   - throw
-  - break
-  - continue
-  - import
+  - break: 👂 heard
+  - continue: 👂 heard
+  - import: 👂 heard
   - export
   - label
   - try..catch
-  - switch
+  - switch: 👂 heard
   - class
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration: 👂 heard
   - function expression
   - return
   - default parameters
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN
