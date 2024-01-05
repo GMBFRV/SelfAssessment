@@ -1,94 +1,94 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🖐️ used 
+  - identifier: 🖐️ used 
+  - variable: 🖐️ used 
+  - constant: 🖐️ used 
+  - scalar: 🖐️ used 
+  - literal: 🖐️ used 
+  - expression: 🖐️ used 
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - function: 🖐️ used 
+  - procedure: 🖐️ used 
+  - method: 🖐️ used 
+  - class: 🖐️ used 
+  - prototype: 👂 heard 
+  - event: 🖐️ used 
+  - type: 🖐️ used 
+  - primitive types: 🖐️ used 
+  - reference types: 🖐️ used 
+  - flag: 🖐️ used 
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block: 🖐️ used 
+  - conditions: 🖐️ used 
+  - loops: 🖐️ used 
+  - assignment: 👂 heard 
   - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - interface: 🖐️ used 
+  - contract: 👂 heard 
+  - module: 🖐️ used 
+  - call stack: 👂 heard 
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
+  - signature: 🖐️ used 
+  - argument: 🖐️ used 
+  - parameter: 🖐️ used 
+  - pure function: 🖐️ used 
+  - lambda expression: 🖐️ used 
+  - side effects: 🖐️ used 
+  - closure: 👂 heard 
+  - partial application: 👂 heard 
   - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
+  - higher order: 👂 heard 
+  - recursion: 👂 heard 
+  - callback: 👂 heard 
+  - listener: 👂 heard 
+  - compose: 👂 heard 
+  - pipe: 👂 heard 
   - memoize
   - wrapper
-  - functor
+  - functor: 👂 heard 
   - monad
   - monoid
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used 
+  - structure: 🖐️ used 
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object: 🖐️ used 
+  - class: 🖐️ used 
+  - collection: 🖐️ used 
   - set
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
+  - linked list: 🖐️ used 
+  - doubly list: 🖐️ used 
+  - unrolled list: 🖐️ used 
+  - circular list: 🖐️ used 
   - queue
-  - stack
+  - stack: 👂 heard 
   - deque
-  - tree
-  - graph
-  - iterator
+  - tree: 👂 heard 
+  - graph: 👂 heard 
+  - iterator: 👂 heard 
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🖐️ used 
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 🖐️ used 
   - garbage collection
-  - refactoring
-  - code review
+  - refactoring: 🖐️ used 
+  - code review: 🖐️ used 
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm: 🖐️ used 
+  - algorithm: 🖐️ used 
   - magic numbers
   - hardcode
   - complexity
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - dead code: 👂 heard
+  - unreachable code: 🖐️ used 
+  - duplicate code: 🖐️ used 
+  - exception: 🖐️ used 
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used 
+  - github: 🖐️ used 
