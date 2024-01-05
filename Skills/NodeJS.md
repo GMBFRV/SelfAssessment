@@ -1,34 +1,34 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
-  - Event loop: phases
-  - Event loop: microtasks and macrotasks
+  - Event loop: phases: 👂 heard
+  - Event loop: microtasks and macrotasks: 👂 heard
   - Garbage collection
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
-  - node:module
+  - node:module: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Contexts and scripts node:vm: 👂 heard
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
-  - Process-based permissions
+  - Process-based permissions: 👂 heard
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
@@ -36,7 +36,7 @@
   - Streams API
   - Web Streams API
   - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with node:crypto.scrypt: 👂 heard
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
@@ -62,14 +62,14 @@
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
-  - Multilayer approach
+  - Multilayer approach: 👂 heard
   - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
   - GoF patterns
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - Highload applications
   - Clean architecture
   - DDD
@@ -86,23 +86,23 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
   - UDP
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -116,43 +116,43 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 👂 heard
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
-  - Active record
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
+  - Active record: 👂 heard
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 👂 heard
+  - error.cause: 👂 heard
+  - error.code: 👂 heard
+  - error.message: 👂 heard
+  - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
