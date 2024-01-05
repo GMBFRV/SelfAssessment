@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 👂 heard
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 👂 heard
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
@@ -21,29 +21,29 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
+  - constructor: 🖐️ used
   - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
   - Inheritance
-  - Parent class
+  - Parent class: 🖐️ used
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface: 🖐️ used
   - Encapsulation
-  - Hidden class
+  - Hidden class: 🖐️ used
   - Object form
   - instance
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
-  - Factory Method
+  - Singleton: 🖐️ used
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer
@@ -51,16 +51,16 @@
   - Facade
   - Proxy
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command: 🖐️ used
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
   - Prototype
-  - Composite
-  - Decorator
+  - Composite: 🖐️ used
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 🖐️ used
   - Visitor
